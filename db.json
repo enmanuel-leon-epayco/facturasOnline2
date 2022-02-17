@@ -1,0 +1,40 @@
+{
+    "facturas2":[
+        {
+            "id": 1,
+            "doc": "123",
+            "valor": 5000.25,
+            "valor2": 70.41,
+            "porcentaje": 50,
+            "correo": "enmanuel.leon@epayco.com",
+            "texto": "Factura 1"
+        },
+        {
+            "id": 2,
+            "doc": "123",
+            "valor": 6000.25,
+            "valor2": 80.41,
+            "porcentaje": 40,
+            "correo": "enmanuel.leon@epayco.com",
+            "texto": "Factura 2"
+        },
+        {
+            "id": 3,
+            "doc": "123",
+            "valor": 7000.25,
+            "valor2": 90.41,
+            "porcentaje": 30,
+            "correo": "enmanuel.leon@epayco.com",
+            "texto": "Factura 3"
+        },
+        {
+            "id": 4,
+            "doc": "456",
+            "valor": 8000.25,
+            "valor2": 100.41,
+            "porcentaje": 20,
+            "correo": "enmanuel.leon@epayco.com",
+            "texto": "Factura 4"
+        }
+    ]
+  }
