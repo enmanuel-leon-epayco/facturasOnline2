@@ -298,51 +298,6 @@
            "porcentaje":20,
            "correo":"enmanuel.leon@epayco.com",
            "texto":null
-        },
-        {
-           "id":26,
-           "doc":"262728",
-           "valor":8000.25,
-           "valor2":100.41,
-           "porcentaje":20,
-           "correo":"enmanuel.leon@epayco.com",
-           "texto":null
-        },
-        {
-           "id":27,
-           "doc":"272829",
-           "valor":8000.25,
-           "valor2":100.41,
-           "porcentaje":20,
-           "correo":"enmanuel.leon@epayco.com",
-           "texto":null
-        },
-        {
-           "id":28,
-           "doc":"282930",
-           "valor":8000.25,
-           "valor2":100.41,
-           "porcentaje":20,
-           "correo":"enmanuel.leon@epayco.com",
-           "texto":null
-        },
-        {
-           "id":29,
-           "doc":"293031",
-           "valor":8000.25,
-           "valor2":100.41,
-           "porcentaje":20,
-           "correo":"enmanuel.leon@epayco.com",
-           "texto":null
-        },
-        {
-           "id":30,
-           "doc":"303132",
-           "valor":8000.25,
-           "valor2":100.41,
-           "porcentaje":20,
-           "correo":"enmanuel.leon@epayco.com",
-           "texto":null
         }
      ]
   }
