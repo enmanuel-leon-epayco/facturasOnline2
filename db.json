@@ -41,13 +41,23 @@
       "facturas": {
          "id":2,
          "doc":"123",
-         "valor":6000.25
+         "valor":6000.25,
+         "extras":{
+            "extra1": "extra1",
+            "extra2": "extra2",
+            "extra3": "extra3"
+         }
       },
       "facturas2": [
          {
             "id":2,
             "doc":"123",
-            "valor":6000.25
+            "valor":6000.25,
+            "extras":{
+               "extra1": "extra1",
+               "extra2": "extra2",
+               "extra3": "extra3"
+            }
          }
       ]
     }
