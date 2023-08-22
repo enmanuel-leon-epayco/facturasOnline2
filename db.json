@@ -1,48 +1,48 @@
 {
-    "facturas2":[
-       {
-          "id":1,
-          "doc":"123",
-          "valor":5000.25,
-          "valor2":70.41,
-          "porcentaje":50,
-          "correo":"enmanuel.leon@epayco.com",
-          "texto":"Factura 1"
-       },
-       {
-          "id":2,
-          "doc":"123",
-          "valor":6000.25,
-          "valor2":80.41,
-          "porcentaje":40,
-          "correo":"enmanuel.leon@epayco.com",
-          "texto":"Factura 2"
-       },
-       {
-          "id":3,
-          "doc":"123",
-          "valor":7000.25,
-          "valor2":90.41,
-          "porcentaje":30,
-          "correo":"enmanuel.leon@epayco.com",
-          "texto":"Factura 3"
-       },
-       {
-          "id":4,
-          "doc":"456",
-          "valor":8000.25,
-          "valor2":100.41,
-          "porcentaje":20,
-          "correo":"enmanuel.leon@epayco.com",
-          "texto":"Factura 4"
-       }
-    ],
-    "data":{
+   "facturas2": [
+      {
+         "id": 1,
+         "doc": "123",
+         "valor": 5000.25,
+         "valor2": 70.41,
+         "porcentaje": 50,
+         "correo": "enmanuel.leon@epayco.com",
+         "texto": "Factura 1"
+      },
+      {
+         "id": 2,
+         "doc": "123",
+         "valor": 6000.25,
+         "valor2": 80.41,
+         "porcentaje": 40,
+         "correo": "enmanuel.leon@epayco.com",
+         "texto": "Factura 2"
+      },
+      {
+         "id": 3,
+         "doc": "123",
+         "valor": 7000.25,
+         "valor2": 90.41,
+         "porcentaje": 30,
+         "correo": "enmanuel.leon@epayco.com",
+         "texto": "Factura 3"
+      },
+      {
+         "id": 4,
+         "doc": "456",
+         "valor": 8000.25,
+         "valor2": 100.41,
+         "porcentaje": 20,
+         "correo": "enmanuel.leon@epayco.com",
+         "texto": "Factura 4"
+      }
+   ],
+   "data": {
       "facturas": {
-         "id":2,
-         "doc":"123",
-         "valor":6000.25,
-         "extras":{
+         "id": 2,
+         "doc": "123",
+         "valor": 6000.25,
+         "extras": {
             "extra1": "extra1",
             "extra2": "extra2",
             "extra3": "extra3"
@@ -50,15 +50,34 @@
       },
       "facturas2": [
          {
-            "id":2,
-            "doc":"123",
-            "valor":6000.25,
-            "extras":{
+            "id": 2,
+            "doc": "123",
+            "valor": 6000.25,
+            "extras": {
                "extra1": "extra1",
                "extra2": "extra2",
                "extra3": "extra3"
             }
          }
       ]
-    }
- }
+   },
+   "chec": [
+      {
+         "$id": "1",
+         "lngClienteId": 123456,
+         "lngNumeroProceso": 0,
+         "lngCupon": 123456,
+         "intTipoPago": 1,
+         "lngValorPago": 205450,
+         "lngCodigoIac": 1234123456,
+         "intCiclo": 123456,
+         "strNombre": "CLIENTE DE PRUEBAS",
+         "strFechaFacturacion": "23/06/2023",
+         "strFechaVencimiento": "21/07/2023",
+         "strNumeroFactura": "123456",
+         "intCodAceptacion": 0,
+         "strMensjAceptacion": "Proceso Exitoso",
+         "ClienteId": 123456
+      }
+   ]
+}
