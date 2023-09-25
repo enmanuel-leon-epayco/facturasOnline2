@@ -61,39 +61,21 @@
          }
       ]
    },
-   "chec": [
-      {
-         "$id": "1",
-         "lngClienteId": 123456789,
-         "lngNumeroProceso": 0,
-         "lngCupon": 123456789,
-         "intTipoPago": 1,
-         "lngValorPago": 205450,
-         "lngCodigoIac": 123456789,
-         "intCiclo": 123456789,
-         "strNombre": "CLIENTE DE PRUEBAS",
-         "strFechaFacturacion": "23/06/2023",
-         "strFechaVencimiento": "21/07/2023",
-         "strNumeroFactura": "123456",
-         "intCodAceptacion": 0,
-         "strMensjAceptacion": "Proceso Exitoso",
-         "ClienteId": 123456789
-      },{
-         "$id": "1",
-         "lngClienteId": 987654321,
-         "lngNumeroProceso": 0,
-         "lngCupon": 987654321,
-         "intTipoPago": 1,
-         "lngValorPago": 205450,
-         "lngCodigoIac": 987654321,
-         "intCiclo": 987654321,
-         "strNombre": "CLIENTE DE PRUEBAS",
-         "strFechaFacturacion": "23/06/2023",
-         "strFechaVencimiento": "21/07/2023",
-         "strNumeroFactura": "123456",
-         "intCodAceptacion": 0,
-         "strMensjAceptacion": "Proceso Exitoso",
-         "ClienteId": 987654321
+   "chec": {
+      "message": "Factura consultada con exito",
+      "factura": {
+          "$id": "1",
+          "lngClienteId": 101119677,
+          "lngNumeroProceso": 0,
+          "lngCupon": 10111967715,
+          "intTipoPago": 1,
+          "lngValorPago": 90131,
+          "lngCodigoIac": 7709998001183,
+          "intCiclo": 56,
+          "strNombre": "BLANCA CECILIA TORO MARIN",
+          "strFechaFacturacion": "23/06/2023",
+          "strFechaVencimiento": "21/07/2023",
+          "strNumeroFactura": "98599956"
       }
-   ]
+  }
 }
